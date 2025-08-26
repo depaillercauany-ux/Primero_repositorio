@@ -2,11 +2,14 @@
 
 # Olá, eu sou Cauany 👋
 
-## Sobre mim
-Sou um estudante apaixonado por Python e programação. Estou em busca de oportunidades para aprender, crescer e contribuir na área de desenvolvimento de software.
+
 
 (![bba0db48-bb3d-4878-8898-2f0604bba375](https://github.com/user-attachments/assets/e4f227ca-3b84-4c26-bbae-2bb8b98b9519)
 
+
+
+## Sobre mim
+Sou um estudante apaixonado por Python e programação. Estou em busca de oportunidades para aprender, crescer e contribuir na área de desenvolvimento de software.
 
 
 ## O que eu estou aprendendo
