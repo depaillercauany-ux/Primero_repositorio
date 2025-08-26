@@ -9,7 +9,7 @@
 
 
 ## Sobre mim
-Sou um estudante apaixonado por Python e programação. Estou em busca de oportunidades para aprender, crescer e contribuir na área de desenvolvimento de software.
+Sou um estudante de Python e programação. Estou em busca de oportunidades para aprender, crescer e contribuir na área de desenvolvimento de software.
 
 
 ## O que eu estou aprendendo
