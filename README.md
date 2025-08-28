@@ -9,7 +9,7 @@
 
 
 ## Sobre mim😁
-Sou um estudante de Python e programação. Estou em busca de oportunidades para aprender, crescer e contribuir na área de desenvolvimento de software.
+Sou um estudante de Python e programação. Estou em busca de oportunidades para aprender, crescer e contribuir na área de desenvolvimento.
 
 
 ## O que eu estou aprendendo👌
@@ -20,16 +20,13 @@ Sou um estudante de Python e programação. Estou em busca de oportunidades para
 - Controle de versão com Git/GitHub
 
 ## Projetos📖
-Aqui estão alguns projetos em que estou trabalhando para melhorar minhas habilidades:
-- **Calculadora simples em Python** — Um projeto para praticar lógica básica e funções.
-- **ToDo List (lista de tarefas)** — Aplicação web básica usando Flask para organizar tarefas diárias.
-- **Analisador de arquivos CSV** — Script para manipular e analisar dados em arquivos CSV.
+Ainda não tenho projetos
 
 ## Meus objetivos🎯
 - Aprender boas práticas de desenvolvimento
 - Participar de projetos open source
 - Conseguir meu primeiro emprego ou estágio como desenvolvedor Python
-- 
+  
 
 ## Como me encontrar
 - GitHub: depaillercauany-ux
