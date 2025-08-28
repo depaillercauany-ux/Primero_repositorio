@@ -1,6 +1,6 @@
 # Primero_repositorio
 
-# Olá, eu sou Cauany ❤️
+# Olá, eu sou Cauany❤️
 
 
 
@@ -8,24 +8,24 @@
 
 
 
-## Sobre mim
+## Sobre mim😁
 Sou um estudante de Python e programação. Estou em busca de oportunidades para aprender, crescer e contribuir na área de desenvolvimento de software.
 
 
-## O que eu estou aprendendo
+## O que eu estou aprendendo👌
 - Fundamentos de Python
 - Estruturas de dados e algoritmos
 - Programação orientada a objetos (POO)
 - Desenvolvimento web básico com Flask/Django
 - Controle de versão com Git/GitHub
 
-## Projetos
+## Projetos📖
 Aqui estão alguns projetos em que estou trabalhando para melhorar minhas habilidades:
 - **Calculadora simples em Python** — Um projeto para praticar lógica básica e funções.
 - **ToDo List (lista de tarefas)** — Aplicação web básica usando Flask para organizar tarefas diárias.
 - **Analisador de arquivos CSV** — Script para manipular e analisar dados em arquivos CSV.
 
-## Meus objetivos
+## Meus objetivos🎯
 - Aprender boas práticas de desenvolvimento
 - Participar de projetos open source
 - Conseguir meu primeiro emprego ou estágio como desenvolvedor Python
