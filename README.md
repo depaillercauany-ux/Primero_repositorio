@@ -12,10 +12,6 @@
 Sou um estudante de Python e programação. Estou em busca de oportunidades para aprender, crescer e contribuir na área de desenvolvimento.
 
 
-
-(![bba0db48-bb3d-4878-8898-2f0604bba375](https:Anime Vibe GIFs - Find & Share on GIPHY
-
-
 ## O que eu estou aprendendo👌
 - Fundamentos de Python
 - Estruturas de dados e algoritmos
